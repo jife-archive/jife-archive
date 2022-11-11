@@ -3,9 +3,9 @@
 <h3 align="center">A passionate developer from South Korea</h3>
 
   
- Hi 👋, I'm JiCheol Choi
- 🌱 I’m currently learning **Kumoh National Institute of Technology**
- 📫 How to reach me **sksk02zja@gmail.com**
+- Hi 👋, I'm JiCheol Choi
+- 🌱 I’m currently learning **Kumoh National Institute of Technology**
+- 📫 How to reach me **sksk02zja@gmail.com**
 
 
 <h3 align="left">Languages and Tools</h3>
