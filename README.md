@@ -1,5 +1,7 @@
+<div align=center>
 # JIFE_Archive
-
+</div>
+  
 - 👋 Hi, I’m @jife98
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
