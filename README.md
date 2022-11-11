@@ -1,6 +1,6 @@
 <div align=center>
 <h1 align="center">JIFE_Archive</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h3 align="center">A passionate developer from South Korea</h3>
 
   
   - Hi 👋, I'm JiCheol Choi
