@@ -1,12 +1,10 @@
 <div align=center>
-# JIFE_Archive
+JIFE_Archive
 </div>
   
-- 👋 Hi, I’m @jife98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m JiCheol CHoi
+- 👀 I’m interested in IOS APP Devlopment
+- 🌱 I’m currently learning Kumoh National Institute of Technology
 
 <!---
 jife98/jife98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
