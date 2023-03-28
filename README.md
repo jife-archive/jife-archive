@@ -6,6 +6,7 @@
 - Hi 👋, I'm JiCheol Choi
 - 🌱 I’m currently learning **Kumoh National Institute of Technology**
 - 📫 How to reach me **sksk02zja@gmail.com**
+- Blog https://jife98.tistory.com
 
 
 <h3 align="left">Languages and Tools</h3>
