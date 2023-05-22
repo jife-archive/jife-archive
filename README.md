@@ -1,6 +1,6 @@
-<div align=center>
-<h1 align="center">JiFe_Archive</h1>
-<h3 align="center">A passionate developer from South Korea</h3>
+<div align=left>
+<h1 align="left">JiFe_Archive</h1>
+<h3 align="left">A passionate iOSdeveloper from South Korea</h3>
 
   
 # 최지철 Ji Cheol Choi 🏃🏻
