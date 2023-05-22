@@ -1,14 +1,49 @@
 <div align=center>
-<h1 align="center">JIFE_Archive</h1>
+<h1 align="center">JiFe_Archive</h1>
 <h3 align="center">A passionate developer from South Korea</h3>
 
   
-- Hi 👋, I'm JiCheol Choi
-- 🌱 I’m currently learning **Kumoh National Institute of Technology**
-- 📫 How to reach me **sksk02zja@gmail.com**
-- Blog https://jife98.tistory.com
+# 최지철 Ji Cheol Choi 🏃🏻
+
+</br>
+
+#### Rising Camp 14th
+- iOS Developer
+- 2023.01 - 2023.03
+ 
+#### Kumoh National Institute of Technology Univ.
+- Computer Science and Engineering
+- 2020.03 - 2024.02
 
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
+    
+<!-- [![solved.ac](http://mazandi.herokuapp.com/api?handle=ansek217&theme=dark)](https://solved.ac/ansek217/) -->
+    
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n)](https://github.com/anuraghazra/github-readme-stats) -->
+
+</br></br></br></br>
+<sub> <a href="https://jife98.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
+ <sub> <a href="https://velog.io/@dayo2n" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Velog-254d41?&style=for-the-badge&logo=Velog&logoColor=#20C997"/></a></sub>
+
+<div>
+  <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>  
+ <img alt="swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> 
+ <img alt="github" src ="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+ <br/>
+ <div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="82" height="82" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" />
+ </div>
+ <sub>created by <a href="https://github.com/qkrdmstlr3/techstack-generator" target="_blank">https://github.com/qkrdmstlr3/techstack-generator</a></sub>
+</div>
+
+
+<br/>
+<a href="https://hits.seeyoufarm.com">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday2on&count_bg=%23B0B0B0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome:)&edge_flat=true"/>
+</a>
+    
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dayo2n&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
+
 
