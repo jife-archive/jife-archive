@@ -24,7 +24,7 @@
 
 </br></br></br></br>
 <sub> <a href="https://jife98.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
- <sub> <a href="https://velog.io/@dayo2n" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Velog-254d41?&style=for-the-badge&logo=Velog&logoColor=#20C997"/></a></sub>
+
 
 <div>
   <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>  
