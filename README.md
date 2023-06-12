@@ -35,7 +35,7 @@
   <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="82" height="82" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" />
  </div>
- <sub>created by <a href="https://github.com/qkrdmstlr3/techstack-generator" target="_blank">https://github.com/qkrdmstlr3/techstack-generator</a></sub>
+ <sub>created by <a href="[https://github.com/qkrdmstlr3/techstack-generator](https://github.com/gjbae1212/hit-counter)" target="_blank">https://github.com/qkrdmstlr3/techstack-generator</a></sub>
 </div>
 
 
