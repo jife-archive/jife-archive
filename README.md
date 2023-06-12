@@ -41,7 +41,7 @@
 
 <br/>
 <a href="[https://hits.seeyoufarm.com](https://github.com/gjbae1212/hit-counter)">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday2on&count_bg=%23B0B0B0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome:)&edge_flat=true"/>
+<img src="[https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday2on&count_bg=%23B0B0B0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=welcome:)&edge_flat=true](https://github.com/gjbae1212/hit-counter)"/>
 </a>
     
 <!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dayo2n&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
