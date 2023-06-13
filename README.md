@@ -22,10 +22,9 @@
     
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n)](https://github.com/anuraghazra/github-readme-stats) -->
 ### Vlog
-</br></br></br></br>
 <sub> <a href="https://jife98.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
-
-
+</br></br>
+--------------------
 <div>
   <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>  
  <img alt="swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> 
