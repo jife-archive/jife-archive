@@ -21,6 +21,9 @@
 <!-- [![solved.ac](http://mazandi.herokuapp.com/api?handle=ansek217&theme=dark)](https://solved.ac/ansek217/) -->
     
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n)](https://github.com/anuraghazra/github-readme-stats) -->
+### CV
+<sub> <a href="https://jife98.github.io/web_CV/" target="_blank"><img alt="apple" src ="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=apple&logoColor=white"/></a></sub>
+
 ### Blog
 <sub> <a href="https://jife98.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
 </br></br>
