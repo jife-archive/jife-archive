@@ -7,15 +7,6 @@
  
 </br>
 
-#### Rising Camp 14th
-- iOS Developer
-- 2023.01 - 2023.03
- 
-#### Kumoh National Institute of Technology Univ.
-- Computer Science and Engineering
-- 2020.03 - 2024.02
-
-
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
     
 <!-- [![solved.ac](http://mazandi.herokuapp.com/api?handle=ansek217&theme=dark)](https://solved.ac/ansek217/) -->
