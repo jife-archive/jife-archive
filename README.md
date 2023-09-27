@@ -4,18 +4,23 @@
  
   
 # 최지철 Ji Cheol Choi 🏃🏻
- 
-</br>
-
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
-    
-<!-- [![solved.ac](http://mazandi.herokuapp.com/api?handle=ansek217&theme=dark)](https://solved.ac/ansek217/) -->
-    
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n)](https://github.com/anuraghazra/github-readme-stats) -->
-### My Experience
+## 👨🏻‍💻Projects
+|                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
+| :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
+|       [Na,Nez](https://github.com/nanez-dev/nanez-iOS)       |    창업동아리 연계 프로젝트    |         Swift(UI Kit)              |  -  | 2023 |
+|  [JAK-LERGY](https://github.com/DareForce/junction-iOS)    |           [JunctionAsia 2023](https://asia.hackjunction.com/home/)            |       Swift(UI Kit)        | 참가  | 2023 |
+|             [낄끼빠빠](https://github.com/ThisIsSuppliment/DIBIVAVA-ios)              |     [DxSprint2023](https://www.dxchallenge.co.kr/events/dxsprint2023)     |          Swift(UI Kit)          | 대상🏆  | 2023 |
+|               [타래](https://github.com/HackathonOteam/O_iOS)                |           [4th Ne(o)rdinary HACKATHON](https://makeus-challenge.notion.site/4th-Ne-o-rdinary-HACKATHON-28b4cef1b5634be5a685d4093c611fd0)            | Swift(UI Kit) |   너디너리 해커톤 대상🏆                                                                                                                                                    2023 국민행복 서비스 발굴, 창업 경진대회 우수상🏆   | 2023 |
+|               [오뭐입?!](https://github.com/NKLCBJoin/oh_OOTD)               |           금오공대 캡스톤1           | Flutter,Firebase |   -   | 2022 |
+## 🏪Service on Store
+### 낄끼빠빠  
+[🔗 App Store](https://apps.apple.com/kr/app/낄끼빠빠/id6452394104)
+        
+[🔗LandingPage](https://kkbb.imweb.me)
+## My Experience
 <sub> <a href="https://jife98.github.io/web_CV/" target="_blank"><img alt="apple" src ="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=apple&logoColor=white"/></a></sub>
 
-### Blog
+## Blog
 <sub> <a href="https://jife98.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
 </br></br>
 --------------------
