@@ -1,6 +1,6 @@
 <div align=left>
 <h1 align="left">JiFe_ARCHIVE</h1>
-<h3 align="left">A passionate App developer from South Korea</h3>
+<h3 align="left">안녕하세요, 최지철입니다.</h3>
  
   
 # 최지철 Ji Cheol Choi 🏃🏻
