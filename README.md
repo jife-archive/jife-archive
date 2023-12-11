@@ -5,9 +5,6 @@
  # 안녕하세요, 최지철입니다. 🏃🏻
 
 
-## My Experience
-<sub> <a href="https://jife98.github.io/web_CV/" target="_blank"><img alt="apple" src ="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=apple&logoColor=white"/></a></sub>
-
 ## Blog
 <sub> <a href="https://jife98.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
 </br></br>
