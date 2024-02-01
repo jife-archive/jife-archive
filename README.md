@@ -3,7 +3,7 @@
  
  
  # 안녕하세요, 최지철입니다. 🏃🏻
-
+ ### 미래와 경쟁하는 중입니다!
 
 ## Blog
 <sub> <a href="https://jife98.tistory.com" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
