@@ -2,7 +2,7 @@
 <h1 align="left">JiFe_ARCHIVE</h1>
  
 ### Side Project
-- [We-Spot](https://github.com/wespot-bff/WeSpot-iOS) 24.11 ~ 진행중 
+- [We-Spot](https://github.com/jife-archive/WeSpot-iOS) 24.11 ~ 진행중 
    - UIkit, ReatorKit, Alamofire, Tuist
 - [휴식맞쥬](https://github.com/Nexters/8potatoes_iOS)  24.07 ~ 24.10 
    - UIKit, ReactorKit, Moya
