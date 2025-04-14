@@ -21,7 +21,7 @@
 ### Tech Skill
    - `SwiftUI`, `UIKit`
    - `RxSwift`, `Combine`, `Swift Concurrency`
-   - `ReactorKit`, `Ribs`
+   - `ReactorKit`, `RIBs` , `MVVM`
 --------------------
 
 
